@@ -1,0 +1,17 @@
+/* General Text */
+h1, h2, h3 {
+  color: aquamarine;
+  user-select:none;
+}
+
+/* Body change */
+body {
+  background: lightyellow;
+  font-family: sans-serif;
+  margin: 1.15pc;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
